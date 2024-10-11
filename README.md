@@ -1,4 +1,7 @@
 # QR-Generator
+
+Online Version: [https://matp101.github.io/QR-Code-Creator/](https://matp101.github.io/QR-Code-Creator/)
+
 # Custom QR Code Generator with Embedded Image
 
 This repository contains a Python application for generating QR codes with a twist - each QR code has a custom image embedded in the center. Ideal for branding or personalization, this tool combines the functionality of a standard QR code generator with the added flair of image integration.
